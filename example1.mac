@@ -1,0 +1,4 @@
+#this is comment line
+/tracking/verbose 1
+/run/beamOn 100000 #run 100000 simulation
+
